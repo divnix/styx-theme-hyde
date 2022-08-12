@@ -3,8 +3,8 @@
   id = "hyde";
   name = "Hyde";
   license = lib.licenses.mit;
-  demoPage = https://styx-static.github.io/styx-theme-hyde;
-  homepage = https://github.com/styx-static/styx-theme-hyde;
+  demoPage = https://divnix.github.io/styx-theme-hyde;
+  homepage = https://github.com/divnix/styx-theme-hyde;
   tags = [ "blog" ];
   screenshot = ./screen.png;
   description = ''
